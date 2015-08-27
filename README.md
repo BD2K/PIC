@@ -1,4 +1,4 @@
-# PIC
+# PIC-SURE
 <a href="http://www.pic-sure.org">Patient-centered Information Commons (PIC)</a>
 
 Patient-centered Information Commons (PIC) aims to create a massively scalable toolkit to enable large, 
