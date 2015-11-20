@@ -8,3 +8,13 @@ prerequisite for conducting the large-N, Big Data, longitudinal studies essentia
 causation in the Precision Medicine framework while simultaneously addressing key complexities of the 
 Patient-Centric Outcome Research studies required under ACA (Affordable Care Act). Our proposal is 
 solidly grounded in our experience over the last 25 years of harnessing clinical care data to the research enterprise.
+
+BD2K PIC-SURE RESTful API:
+http://bd2k-picsure.hms.harvard.edu 
+
+ExAC REST API:
+http://exac.hms.harvard.edu 
+
+NHANES patient level public data with 41k patients:
+https://nhanes.hms.harvard.edu 
+login: demo   pass: demo
